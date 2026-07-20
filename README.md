@@ -2,8 +2,8 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/discord-collectibles-scraper?style=social)](https://github.com/yourusername/discord-collectibles-scraper)
-[![GitHub Forks](https://img.shields.io/github/forks/yourusername/discord-collectibles-scraper?style=social)](https://github.com/yourusername/discord-collectibles-scraper)
+[![GitHub Stars](https://img.shields.io/github/stars/JulesZYTB/discord-collectibles-downloader?style=social)](https://github.com/JulesZYTB/discord-collectibles-downloader)
+[![GitHub Forks](https://img.shields.io/github/forks/JulesZYTB/discord-collectibles-downloader?style=social)](https://github.com/JulesZYTB/discord-collectibles-downloader)
 
 An ultra-modern, high-performance, modular CLI scraper for Discord profile collectibles: **Avatar Decorations**, **Profile Effects**, **Nameplates**, and **Profile Borders/Widgets**.
 
@@ -21,7 +21,7 @@ An ultra-modern, high-performance, modular CLI scraper for Discord profile colle
 
 > ⚠️ **DISCLAIMER & LEGAL WARNING / AVERTISSEMENT LÉGAL**  
 > 
-> **[FR] À DESSIN ÉDUCATIONNEL UNIQUEMENT :**  
+> **[FR] À DES FINS ÉDUCATIVES UNIQUEMENT :**  
 > Ce logiciel a été conçu exclusivement à des fins d'éducation, de recherche et d'apprentissage sur le fonctionnement des API web et le multithreading en Python. Les créateurs, développeurs et contributeurs de ce projet **déclinent toute responsabilité** quant à l'utilisation qui pourrait être faite de ce programme par des tiers. L'utilisateur est seul responsable du respect des Conditions Générales d'Utilisation (Terms of Service) des services tiers concernés.
 > 
 > **[EN] FOR EDUCATIONAL PURPOSES ONLY:**  
@@ -48,7 +48,7 @@ An ultra-modern, high-performance, modular CLI scraper for Discord profile colle
 ## 🏗️ Project Architecture / Architecture Modulaire
 
 ```text
-discord-collectibles-scraper/
+discord-collectibles-downloader/
 ├── main.py                     # Entry point (100% Interactive CLI)
 ├── README.md                   # Full documentation & guide
 ├── LICENSE                     # MIT License
@@ -116,8 +116,8 @@ discord_collectibles/
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/discord-collectibles-scraper.git
-cd discord-collectibles-scraper
+git clone https://github.com/JulesZYTB/discord-collectibles-downloader.git
+cd discord-collectibles-downloader
 ```
 
 ### Basic Usage
