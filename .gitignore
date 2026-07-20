@@ -1,0 +1,25 @@
+# Configuration & Tokens
+config.yaml
+config.json
+*.env
+*.token
+
+# Downloaded Collectibles & Datasets
+discord_collectibles/
+*.har
+catalog.json
+
+# Proxies
+proxies.txt
+
+# Temp inspect & test scripts
+inspect_*.py
+test_*.py
+analyze_*.py
+
+# Python & System
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
